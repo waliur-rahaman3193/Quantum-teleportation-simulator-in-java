@@ -41,3 +41,19 @@ This simulator is designed for educational purposes and visualizes each step usi
 
 ## 📁 Project Structure
 
+---
+
+## 🛠️ How to Run
+
+### ✅ Prerequisites:
+- Java JDK 8 or higher
+- IDE like IntelliJ or Eclipse (optional)
+
+### 🔧 Compile & Run
+
+```bash
+git clone https://github.com/waliur-rahaman3193/QuantumTeleportationSimulator.git
+cd QuantumTeleportationSimulator/src
+javac *.java
+java Main
+
